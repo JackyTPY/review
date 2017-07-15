@@ -1680,8 +1680,8 @@
 		color: #000000;
 	}
 
-	body, input, select, textarea {
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+	body, input, select, textarea, button {
+		font-family: "Source Sans Pro", Helvetica, Arial, "Noto Sans TC", "文泉驛正黑", "WenQuanYi Zen Hei", "PingFangTC-Regular", "LiHei Pro", "Yu Gothic", "微軟正黑體", "Microsoft JhengHei", sans-serif;
 		font-size: 1rem;
 		font-weight: 300;
 		line-height: 1.65;
